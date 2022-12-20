@@ -30,7 +30,7 @@ Saking sukanya Mardy dengan angka, beliau lebih suka menghitung tipe dari suatu 
 
 Sebagai rekan yang baik, marilah kita bantu membuat sebuah program yang digunakan untuk membaca data JSON dan menghitung berapa jumlah string, boolean, dan number yang terdapat dalam file JSON.
 
-file json tersebut dapat dilihat disini https://pastebin.com/8QVaUjE8
+file json tersebut dapat dilihat disini mardy.json
 
 contoh output dari program tersebut adalah
 
