@@ -52,6 +52,10 @@ Input:
 
 Jumlah Hello yang diucapkan adalah 2x
 
+\>>---<---<<
+
+Jumlah hello yang diucapkan adalah 12x
+
 \>><><>>><-<
 
 Jumlah hello yang diucapkan adalah 34x
